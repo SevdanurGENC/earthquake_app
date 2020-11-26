@@ -1,6 +1,7 @@
-# earthquakeapp
+# Nano EarthQuake App
 
-A new Flutter application.
+This repo contains an application that shows the latest Earthquake information of the Turkey.
+
 
 ## Getting Started
 
